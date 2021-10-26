@@ -1,0 +1,43 @@
+
+// este primeiro sass apresenta um titulo da pagina usando h1 "Alo mundo"
+// em seguida um paragrafo formatado e mais três bolas com propriedades de estilização diferentes
+#app 
+
+{
+background-color: greenyellow;
+color: coral
+
+h1 {
+  color: red;
+font-size: 76px;
+font-weight: 100;
+    }
+ p{
+   font-size: 24px;
+   color:brown
+   
+  } 
+ 
+}
+
+.bola1 {
+width: 200px;
+height: 200px;
+border-radius: 50%;
+background-color: blue;
+}
+ 
+.bola2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: darkorange;
+  }
+  
+  .bola3 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: green;
+    }
+    
